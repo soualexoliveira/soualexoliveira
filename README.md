@@ -1,4 +1,4 @@
-<h1>Oi! Eu sou o Alex Oliveira</h1>
+<h1>Oi! Eu sou o Alex Oliveira 🇧🇷 </h1>
 
 <a href="#" target="_black"><img align="right" alt="Alex-pic" width="200" style="border-radius: 50px;" src="https://cdn.discordapp.com/attachments/338764051985203222/1003757169251983500/download20220705202021.gif" target="_blank"></a>
 
@@ -13,13 +13,13 @@
 
 <p>- Tenho pensado sobre muito migrar de área, porém ainda não consegui decidir qual área da tecnologia eu gostaria de focar.</p><br>
 
-<p>- Atualmente estou focado em atualizar meus conhecimentos. Antigamente eu estudei HTML e CSS, porém antes de HTML5 e CSS3. Acredito que esteja um pouco desatualizado.
+<p>- Atualmente estou focado em atualizar meus conhecimentos. Antigamente eu estudei <strong>HTML e CSS</strong>, porém antes de <strong>HTML5 e CSS3</strong>. Acredito que esteja um pouco desatualizado.😜
 <div style="display: inline_block">
   <a href="#" target="_blank"><img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="#" target="_blank"><img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 </div><br></p>
 
-<p>- Tenho muito interesse em aprender Javascript e Phyton. Sinto que são as linguagens mais utilizadas hoje em dia no mercado e parecem legais de aprender. Também me interesso por Typescript, React, e algum banco de dados.
+<p>- Tenho muito interesse em aprender <strong>Javascript e Phyton</strong>. Sinto que são as linguagens mais utilizadas hoje em dia no mercado e parecem legais de aprender. Também me interesso por <strong>Typescript, React, e algum banco de dados</strong>.
 <div style="display: inline_block">
   <a href="#" target="_blank"><img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="#" target="_blank"><img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
@@ -38,6 +38,6 @@
 
 <div align="center">
   <a href="https://github.com/soualexoliveira">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=soualexoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soualexoliveira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=soualexoliveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soualexoliveira&layout=compact&langs_count=7&theme=vision-friendly-dark&locale=pt-br"/>
 </div>
